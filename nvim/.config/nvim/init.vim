@@ -7,10 +7,9 @@ set autoread
 set autowrite
 set list lcs=tab:→\ ,trail:·,extends:↷,precedes:↶
 set tabstop=4
-set shiftwidth=4
 set softtabstop=4
-set smarttab
-set smartindent
+set shiftwidth=4
+set expandtab
 set t_Co=256
 set termguicolors
 set showtabline=2

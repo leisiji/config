@@ -84,7 +84,8 @@
 	"coc.preferences.currentFunctionSymbolAutoUpdate":true,
 	"coc.preferences.jumpCommand": "tab drop",
 	"tsserver.npm": "/usr/bin/npm",
-	"java.home": "/usr/lib/jvm/java-11-openjdk",
+	"java.codeGeneration.useBlocks":true,
+	"java.home": "/home/workspace2/yexuelin/jdk-11.0.2",
 	"java.format.settings.url": "/home/ye/.config/coc/extensions/node_modules/redhat.java/eclipse-formatter.xml",
-	"java.codeGeneration.useBlocks":true
+    "java.import.gradle.home": "/home/workspace2/yexuelin/gradle-6.5.1-bin/gradle-6.5.1"
 }
